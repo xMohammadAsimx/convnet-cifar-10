@@ -24,7 +24,6 @@ A deep learning project implementing an advanced Convolutional Neural Network to
 ## Files
 - `code/convnet-cifar-10.ipynb` - Complete training pipeline and inference  
 - `submission/submission.csv` - Model predictions (90.46% accuracy results)
-- `adv_best.weights.h5` - Best model weights (if saved)
 - `submission.csv` - Kaggle submission format
 
 ## How to Run
